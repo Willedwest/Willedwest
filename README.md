@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Willedwest
-- 👀 I’m interested in ... becoming a frontend webdeveloper and UI/UX designer
-- 🌱 I’m currently learning ...HTML/CSS
-- 💞️ I’m looking to collaborate on ...With anyone who is on the same learning journey with me and anyone who is willing to share their knowledge with me, and anyone who would like us to work together.
+- 👀 I’m interested in ... becoming a Fullstack developer.
+- 🌱 I’m currently learning ...HTML/CSS/Javascript
+- 💞️ I’m looking to collaborate on ...With anyone who is on the same learning journey with me, and interested in working together to code solutions into everydays life issues. and create projects.
 - 📫 How to reach me ... my email or just write me here I will reply
 
 <!---
