@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @J.J WILLIAMS
+- 👋 #Hi, I’m J.J WILLIAMS
 - 👀 I’m interested in ... becoming a Fullstack developer.
 - 🌱 I’m currently learning ...HTML/CSS/Javascript
 - 💞️ I’m looking to collaborate on ...With anyone who is on the same learning journey with me, and interested in working together to code solutions into everydays life issues. and create projects.
